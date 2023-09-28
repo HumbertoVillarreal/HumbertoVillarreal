@@ -26,7 +26,6 @@
   
 </div>
 
----
 
 ### 🤖 About Me :
 I am a Mexican 🌮 software engineer that can learn on the go and that always tends to finish the work in due form. I am able to work well both in a team environment as well as using own initiative. Currently looking for a home office position  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
@@ -59,7 +58,6 @@ I am a Mexican 🌮 software engineer that can learn on the go and that always t
   <img src="https://openusersystems.com/web/image/1327-3745d5bd/microsoft-power-automate-2020.png" title="Automate" alt="Automate" width="40" height="40"/>&nbsp;
   <img src="https://belacorp.com/wp-content/uploads/2022/03/Microsoft-PA.png" title="Apps" alt="Apps" width="40" height="40"/>&nbsp;
   <img src="https://i0.wp.com/indiciatraining.com/wp-content/uploads/2019/10/power-bi_logo_transparent.png?resize=600%2C626&ssl=1" title="Bi" alt="Bi" width="40" height="40"/>&nbsp;
-  <img src="https://belacorp.com/wp-content/uploads/2022/03/Microsoft-PA.png" title="Apps" alt="Apps" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
@@ -68,4 +66,3 @@ I am a Mexican 🌮 software engineer that can learn on the go and that always t
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoVillarreal)](https://github.com/anuraghazra/github-readme-stats)
 
----
