@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/betillin8/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://x.com/betico2001cere1?t=wBo2UI09a_IeUUswKEk1yQ&s=09">
+  <a href="">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="">
